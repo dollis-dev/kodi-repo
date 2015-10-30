@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="plugin.video.hd-streaming-dollisdev"
        name="HD Streaming"
-       version="1.7"
+       version="1.8"
        provider-name="HD Streaming - Modded by DollisDev">
   <extension point="xbmc.python.pluginsource"
              library="default.py">
