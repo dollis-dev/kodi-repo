@@ -1,4 +1,5 @@
-[B]0.0.12[/B]
+[B]0.0.31[/B]
+Added: Fanart, EPG, Channel Icons[B][B]0.0.12[/B]
 Added: Gotham compatibility
 
 [B]0.0.11[/B]
