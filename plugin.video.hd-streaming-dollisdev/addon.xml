@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.hd-streaming-dollisdev"
        name="HD Streaming"
-       version="0.0.40"
+       version="0.0.50"
        provider-name="HD Streaming - Modded by DollisDev">
   <extension point="xbmc.python.pluginsource"
              library="default.py">
@@ -9,7 +9,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">HD Streaming</summary>
-    <description lang="en">HD Streaming video plugin - Modded by DollisDev to provide channel icons, basic EPG and fanart - Update 0.0.40</description>
+    <description lang="en">HD Streaming video plugin - Modded by DollisDev to provide channel icons, basic EPG and fanart - Update 0.0.50</description>
     <platform>all</platform>
     <license>GPL 2.0</license>
   </extension>
@@ -17,6 +17,6 @@
               name="HD-Streaming Add-on repository">
     <info compressed="false">https://raw.githubusercontent.com/dollis-dev/kodi-repo/master/addons.xml</info>
     <checksum>https://raw.githubusercontent.com/dollis-dev/kodi-repo/master/addons.xml.md5</checksum>
-    <datadir zip="true">https://raw.githubusercontent.com/dollis-dev/kodi-repo/master/zips/</datadir>
+    <datadir zip="false">https://raw.githubusercontent.com/dollis-dev/kodi-repo/master/</datadir>
   </extension>
 </addon>
