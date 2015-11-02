@@ -1,0 +1,7 @@
+<b>Version 2.7 - First fully working DollisDev release</b>
+
+Added Channel Icons
+
+Added Self updating addon repo
+
+Added custom Fanart scraping for currently airing TV Show
