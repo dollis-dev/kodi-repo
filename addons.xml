@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.hd-streaming-dollisdev"
        name="HD Streaming"
-       version="2.8"
+       version="2.9"
        provider-name="HD Streaming - Modded by DollisDev">
   <extension point="xbmc.python.pluginsource"
              library="default.py">
