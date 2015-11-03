@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.hd-streaming-dollisdev" name="HD Streaming" version="4.5" provider-name="HD Streaming - Modded by DollisDev">
+<addon id="plugin.video.hd-streaming-dollisdev" name="HD Streaming" version="4.6" provider-name="HD Streaming - Modded by DollisDev">
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">HD Streaming</summary>
-    <description lang="en">HD Streaming video plugin - Modded by DollisDev with Channel Icons, EPG and fanart</description>
+    <description lang="en">HD Streaming video plugin - Modded by DollisDev with Channel Icons, EPG and fanart - 4.6</description>
     <platform>all</platform>
     <license>GPL 2.0</license>
   </extension>
